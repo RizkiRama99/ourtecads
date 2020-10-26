@@ -1,9 +1,10 @@
+
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
-var s1=document.createElement(&quot;script&quot;),s0=document.getElementsByTagName(&quot;script&quot;)[0];
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src=&#39;https://embed.tawk.to/5f9583bf2915ea4ba09687a5/default&#39;;
-s1.charset=&#39;UTF-8&#39;;
-s1.setAttribute(&#39;crossorigin&#39;,&#39;*&#39;);
+s1.src='https://embed.tawk.to/5f9583bf2915ea4ba09687a5/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
